@@ -20,6 +20,6 @@
 2. Heat oil in a large, deep skillet over medium heat. Cook sausage and pepper flakes until sausage is evenly brown.
 3. Stir in onion and garlic, and cook until onion is tender.
 4. Stir in tomatoes, cream, and salt. Simmer until mixture thickens, 8 to 10 minutes.
-5. In the last minute of cook time, stir in parmesan cheese.
-6. Stir cooked pasta into sauce, and heat through. Sprinkle with parsley.
+5. Stir cooked pasta into sauce, and heat through. Sprinkle with parsley.
+6. In the last minute of cook time, stir in parmesan cheese.
 
