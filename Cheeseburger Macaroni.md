@@ -10,12 +10,12 @@
 
 ### Sauce Packet
 
-- 1 tablespoon cornstarch (or flour)
-- 2 teaspoons onion powder
-- 1 teaspoon garlic
-- 1 teaspoon salt
-- 1 teaspoon seasoning/pepper
-- 1 teaspoon sugar
+- 1 tbsp cornstarch (or flour)
+- 1 tsp onion powder
+- 1 tsp garlic
+- 1 tsp salt
+- 1 tsp seasoning/pepper
+- 1 tsp sugar
 
 ## Directions
 
