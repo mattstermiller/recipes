@@ -5,6 +5,8 @@
 - Chili
 - Meatloaf
 - Pizza
+- Roast
+- Shepherd's Pie
 - Spaghetti
 - Steaks
 - [Taco Pasta](<Taco Pasta.md>)
