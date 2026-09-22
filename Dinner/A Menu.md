@@ -3,6 +3,8 @@
 - Burgers
 - [Cheeseburger Macaroni](<Cheeseburger Macaroni.md>)
 - Chili
+- Enchiladas
+- Lasagna
 - Meatloaf
 - Pizza
 - Roast
